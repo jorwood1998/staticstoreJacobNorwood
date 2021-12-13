@@ -1,0 +1,139 @@
+.body{
+    margin: 0;
+}
+
+#header{
+    width: auto;
+    height: 12rem;
+    background-image: linear-gradient(tan, rgb(80, 36, 0));
+    margin: 0px;
+    padding: 0;
+    position: relative;
+    z-index: 1;
+}
+#main{
+    background-color:rgb(80, 36, 0) ;
+    height: 1400px;
+    width: auto;
+}
+#nav{
+    position: absolute;
+    text-align: center;
+    margin-left: 40%;
+    padding-top: 3rem;
+    
+}
+#Home{
+    float: left;
+    border-style: solid;
+    width: 8rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 3rem;
+    padding-bottom: 1rem;
+}
+#Shop{
+    float: left;
+    border-style: solid;
+    width: 8rem;
+    height: 3rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 1rem;
+}
+#About{
+    float: left;
+    border-style: solid;
+    width: 8rem;
+    height: 3rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 1rem;
+}
+#Logo{
+    position: absolute;
+    width: 400px;
+    height: 180px;
+}
+#Logoimg{
+    height: 180px;
+    width: 100px;
+    position: absolute;
+}
+#LogoTxt{
+    float: right;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 150px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#Social{
+    float: left;
+    position: absolute;
+}
+#icons{
+    position: inherit;
+    float: left;
+    width: 150px;
+    height: 50px;
+    margin-left: 100rem;
+    margin-top: 3rem;
+}
+#bkg{
+    position: absolute;
+    height: 100%;
+    width: 118rem;
+}
+#preview{
+    position: absolute;
+    width: 30%;
+    height: 40%;
+}
+#previewtext
+{
+    margin-top: 25rem;
+    float: right;
+}
+#Page{
+    margin: 0;
+}
+#previewcont{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    float: right;
+    color: tan;
+}
+#storeimg{
+    width: 30rem;
+    height: 30rem;
+    margin-left: 1rem;
+}
+#footer{
+    width: auto;
+    height: 12rem;
+    background-image: linear-gradient(rgb(80, 36, 0), tan);
+    margin: 0px;
+    padding: 0;
+    position: relative;
+}
+#products{
+    float: right;
+    position: relative;
+    width: 70rem;
+    margin-top: 25rem;
+}
+#productOne{
+    text-align: center;
+    height: 300px; 
+    width: 300px; 
+    float: left; 
+    margin-top: 5rem;
+    border-radius: 50%;
+    margin-left: 5rem;
+
+}
+#producttxt
+{
+    text-align: center;
+    margin-left: 10rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: tan;
+}
